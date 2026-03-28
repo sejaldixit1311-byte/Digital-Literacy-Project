@@ -8,6 +8,8 @@ Program: B.tech
 
 Branch: cse (AIML)
 
+Course: CSE0001_Digital-Literacy
+
 Project Overview
 This project demonstrates digital literacy skills including infographic creation, digital portfolio development, coding practice, email communication, and cybercrime awareness.
 
